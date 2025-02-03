@@ -1,5 +1,5 @@
 # sys module: Access system-specific parameters, command-line arguments, and system functions.
-# glob: Search for files and directories using wildcards.
+# glob: Search for files and directories using wildcards(for file pattern matching).
 # os: Work with files, directories, and interact with the OS.
 import sys, glob, os
 
